@@ -1,5 +1,11 @@
 # Capstone-Project-part3
+
+In this I have continued as per the task continuing from part 2
+
 Advanced Modeling — Ensembles, Tuning, and Full ML Pipeline 
+
+Scenario
+Your client wants to know not just whether a model works, but which model is the most robust and how confident you are in that claim. You will now build ensemble models, tune them systematically, and package everything into a reproducible sklearn Pipeline that can be serialized and reloaded
 
 1.Baseline & Overfitting Analysis
 
